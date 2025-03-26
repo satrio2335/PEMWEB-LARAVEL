@@ -1,6 +1,6 @@
-# 🌐 Satya Adil Faishal - Personal Website  
+# 🌐 Satrio wijoyo
 
-🚀 **Live Website:** [Satya Adil Faishal](https://satyaadil.github.io/Myweb/) 
+ **Live Website:** [Satya Adil Faishal](https://satriowijaya001.blogspot.com/) 
 
 
 
