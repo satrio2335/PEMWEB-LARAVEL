@@ -1,6 +1,6 @@
-# 🌐 Satrio wijoyo
+Satrio wijoyo
 
- **Live Website:** [Satya Adil Faishal](https://satriowijaya001.blogspot.com/) 
+ **Live Website:** [Satrio Wijoyo](https://satriowijaya001.blogspot.com/) 
 
 
 
